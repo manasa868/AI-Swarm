@@ -1,0 +1,27 @@
+{
+  "system_name": "College Bus Transit System",
+  "campus_location": "Main University Campus, North Gate",
+  "fleet": [
+    { "id": "BUS-01", "plate": "KA-01-AB-1001", "capacity": 50, "status": "ACTIVE" },
+    { "id": "BUS-02", "plate": "KA-01-CD-2002", "capacity": 45, "status": "ACTIVE" },
+    { "id": "BUS-03", "plate": "KA-01-EF-3003", "capacity": 55, "status": "MAINTENANCE" }
+  ],
+  "routes": [
+    {
+      "id": "RT-101",
+      "name": "North Metro Express",
+      "origin": "Central Metro Station",
+      "destination": "Main Campus",
+      "distance_km": 14.2,
+      "stops": ["Central Metro", "Tech Park Junction", "City Library", "Main Campus"]
+    },
+    {
+      "id": "RT-102",
+      "name": "South Suburb Shuttle",
+      "origin": "Railway Terminal",
+      "destination": "Main Campus",
+      "distance_km": 18.7,
+      "stops": ["Railway Terminal", "Market Circle", "Hospital Square", "Main Campus"]
+    }
+  ]
+}

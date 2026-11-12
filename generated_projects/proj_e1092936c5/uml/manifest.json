@@ -1,0 +1,105 @@
+{
+  "project_id": "proj_e1092936c5",
+  "diagrams": {
+    "use_case": {
+      "id": "use_case",
+      "title": "Use Case Diagram",
+      "description": "Actors and capabilities available in the generated AI Swarm project.",
+      "svg_url": "/api/projects/proj_e1092936c5/diagrams/use_case",
+      "export_url": "/api/projects/proj_e1092936c5/diagrams/use_case/export",
+      "classes": [
+        "Bus",
+        "BusRoute",
+        "Passenger",
+        "BusManagementService",
+        "TestBusServices"
+      ],
+      "source_files": [
+        "models.py",
+        "services.py",
+        "tests/__init__.py",
+        "tests/test_services.py"
+      ]
+    },
+    "class": {
+      "id": "class",
+      "title": "Class Diagram",
+      "description": "Classes, members, inheritance, and relationships extracted from project source.",
+      "svg_url": "/api/projects/proj_e1092936c5/diagrams/class",
+      "export_url": "/api/projects/proj_e1092936c5/diagrams/class/export",
+      "classes": [
+        "Bus",
+        "BusRoute",
+        "Passenger",
+        "BusManagementService",
+        "TestBusServices"
+      ],
+      "source_files": [
+        "models.py",
+        "services.py",
+        "tests/__init__.py",
+        "tests/test_services.py"
+      ]
+    },
+    "sequence": {
+      "id": "sequence",
+      "title": "Sequence Diagram",
+      "description": "The project generation workflow, including test failures and correction.",
+      "svg_url": "/api/projects/proj_e1092936c5/diagrams/sequence",
+      "export_url": "/api/projects/proj_e1092936c5/diagrams/sequence/export",
+      "classes": [
+        "Bus",
+        "BusRoute",
+        "Passenger",
+        "BusManagementService",
+        "TestBusServices"
+      ],
+      "source_files": [
+        "models.py",
+        "services.py",
+        "tests/__init__.py",
+        "tests/test_services.py"
+      ]
+    },
+    "activity": {
+      "id": "activity",
+      "title": "Activity Diagram",
+      "description": "The execution and test-correction decisions from request to delivery.",
+      "svg_url": "/api/projects/proj_e1092936c5/diagrams/activity",
+      "export_url": "/api/projects/proj_e1092936c5/diagrams/activity/export",
+      "classes": [
+        "Bus",
+        "BusRoute",
+        "Passenger",
+        "BusManagementService",
+        "TestBusServices"
+      ],
+      "source_files": [
+        "models.py",
+        "services.py",
+        "tests/__init__.py",
+        "tests/test_services.py"
+      ]
+    },
+    "component": {
+      "id": "component",
+      "title": "Component Diagram",
+      "description": "Generated source modules, backend services, storage, and model integration.",
+      "svg_url": "/api/projects/proj_e1092936c5/diagrams/component",
+      "export_url": "/api/projects/proj_e1092936c5/diagrams/component/export",
+      "classes": [
+        "Bus",
+        "BusRoute",
+        "Passenger",
+        "BusManagementService",
+        "TestBusServices"
+      ],
+      "source_files": [
+        "models.py",
+        "services.py",
+        "tests/__init__.py",
+        "tests/test_services.py"
+      ]
+    }
+  }
+}

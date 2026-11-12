@@ -1,0 +1,9 @@
+customer_id,recency_days,frequency_orders,monetary_spend,tenure_months,churned
+CUST-1001,12,38,4250.00,24,0
+CUST-1002,185,2,110.00,8,1
+CUST-1003,5,62,8900.50,36,0
+CUST-1004,240,1,45.00,4,1
+CUST-1005,34,18,1890.00,16,0
+CUST-1006,90,5,340.00,12,1
+CUST-1007,8,44,5200.00,30,0
+CUST-1008,120,4,290.00,9,1

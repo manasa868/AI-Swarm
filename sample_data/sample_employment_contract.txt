@@ -1,0 +1,13 @@
+STANDARD EMPLOYMENT AGREEMENT - RESTRICTIVE COVENANT ADDENDUM
+
+EMPLOYEE: Jane Doe
+EMPLOYER: Apex Software Solutions LLC
+DATE: June 15, 2024
+
+SECTION 9: RESTRICTION ON POST-EMPLOYMENT COMPETITION (NON-COMPETE)
+
+9.1 Restriction. The Employee agrees that during the term of employment and for a period of twenty-four (24) months following termination of employment for any reason, the Employee shall not directly or indirectly engage in, perform services for, consult with, or acquire any financial interest in any business, corporation, or entity that develops or distributes competing enterprise software products within a radius of one hundred (100) miles of Employer's primary office or across any geographic territory in which Employer conducts business.
+
+9.2 Consideration. This covenant is executed during the employee's existing second year of at-will employment. No separate lump-sum monetary bonus, equity award, or promotion is granted in connection with the execution of this Addendum.
+
+9.3 Governing Law. This agreement shall be governed by and construed in accordance with the general principles of common contract law.
