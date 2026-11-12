@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Swarm: From Individual to Intelligent Teams
 ### College Major Project & Autonomous Multi-Agent Engineering Platform
 *With Specialized Domain Application: **Transparent Legal AI***
@@ -249,3 +250,6 @@ For viva examinations, demonstrations, and college project evaluation:
 6. **Code & File Tree**: Navigate to **Code & File Tree**; show the generated project files (`src/`, `tests/`, `requirements.txt`), inspect syntax, and download the `.ZIP` codebase.
 7. **Academic Documentation**: View the **Academic Project Docs** tab; show the dynamically generated 22-section report.
 8. **Transparent Legal AI**: Open the **Transparent Legal AI** tab, run a contract query, and demonstrate factual decomposition, verified citations, risk matrices, and legal disclaimers.
+=======
+# AI-Swarm
+>>>>>>> 1fb74775441a4875ce21a89db8ee4db2aabd5b87
